@@ -19,7 +19,7 @@
 #### Frameworks & Libraries :
    <a href="https://github.com/vivekMTech"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"></a>            <!-- Keras -->
   <a href="https://github.com/vivekMTech"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">     </a>    <!-- Tensorflow --> 
-   <a href="https://github.com/vivekMTech"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-           learn&logoColor=white"></a>    <!-- Scikit-Learn --> 
+   <a href="https://github.com/vivekMTech"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>    <!-- Scikit-Learn --> 
    <a href="https://github.com/vivekMTech"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>          <!-- Open CV --> 
    <a href="https://github.com/vivekMTech"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>          <!-- Pandas -->
    <a href="https://github.com/vivekMTech"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>          <!-- Streamlit -->
