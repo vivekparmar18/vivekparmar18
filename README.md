@@ -9,5 +9,5 @@
 
 #### Github Stats :
 <a href="https://github.com/vivekMTech">
-   <img src="https://github-readme-stats.vercel.app/api?username=vivekMTech&show_icons=true&title_color=336EFF&icon_color=336EFF&text_color=000000&bg_color=FFFFFF">
+   <img src="https://github-readme-stats.vercel.app/api?username=vivekparmar18&show_icons=true&title_color=336EFF&icon_color=336EFF&text_color=000000&bg_color=FFFFFF">
 </a>
